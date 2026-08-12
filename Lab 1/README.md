@@ -22,7 +22,7 @@ onto **different** subnets with no router in between.
 | Switch1 | Cisco 2960-24TT | Fa0/1 → Switch2, plus one access port to PC0 | — | — |
 | Switch2 | Cisco 2960-24TT | Fa0/1 → Switch1, plus one access port to PC1 | — | — |
 
-Switches are unconfigured (default VLAN 1) — this lab is about Layer 1/2 cabling and
+Switches are unconfigured (default VLAN 1) this lab is about Layer 1/2 cabling and
 Layer 3 host addressing, so no switch CLI configuration is required.
 
 ## Objectives
@@ -71,7 +71,7 @@ C:\>ping 192.168.1.1
 
 ## Results
 
-**PC0 → PC1** — 4/4 replies, 0% loss:
+**PC0 → PC1**  4/4 replies, 0% loss:
 
 ![Ping from PC0 to PC1 succeeding with 0% packet loss](./ping%20from%20pc%200%20to%20pc%201.png)
 
@@ -113,7 +113,7 @@ The first reply in each run is slower (12–14 ms vs 6 ms) because that packet w
 **ARP** request/reply that resolves the destination IP to a MAC address. Once the entry is
 cached, the remaining three pings go straight out.
 
-## Extension — what breaks across subnets
+## Extension what breaks across subnets
 
 The topology screenshot below shows PC1 re-addressed to `192.168.2.2/24` while PC0 stays on
 `192.168.1.1/24`, traced in **Simulation mode**:
