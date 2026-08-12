@@ -1,4 +1,4 @@
-# Lab 1 — Basic Connectivity Between Two Switches
+# Lab 1 Basic Connectivity Between Two Switches
 
 A Cisco Packet Tracer lab building a small switched network and verifying end-to-end
 connectivity with `ping`. The lab also shows what happens when the two hosts are moved
