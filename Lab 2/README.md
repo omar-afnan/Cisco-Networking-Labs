@@ -1,4 +1,4 @@
-# Lab 2 — Connectivity Issue
+# Lab 2 Connectivity Issue
 
 ## Topology
 
@@ -23,4 +23,4 @@ after that i tried to ping from pc 1 to pc 0 it work tried arp -a it did show pc
 
 ## Files
 
-- `Connectivity issue.pkt` — Packet Tracer file for this lab
+- `Connectivity issue.pkt` Packet Tracer file for this lab
