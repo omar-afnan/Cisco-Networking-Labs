@@ -12,6 +12,7 @@ what actually happened when it was verified.
 | # | Lab | Topic | Key skills |
 |---|-----|-------|-----------|
 | 1 | [Basic Connectivity Between Two Switches](./Lab%201) | Switching, IPv4 addressing | Cabling, static IPs, `ping` verification, ARP, why cross-subnet traffic needs a router |
+| 2 | [Connectivity Issue Troubleshooting](./Lab%202) | Troubleshooting, subnetting | Wrong default gateway, `/30` vs `/24` masks, static vs DHCP, `ipconfig`, `ping`, `arp -a` |
 
 *More labs are added as I work through them.*
 
@@ -33,6 +34,10 @@ Cisco-Networking-Labs/
 │   ├── Connectivity.pkt      <- Packet Tracer save file
 │   ├── README.md             <- lab write-up
 │   └── *.png                 <- screenshots of the results
+├── Lab 2/
+│   ├── Connectivity issue.pkt
+│   ├── README.md
+│   └── *.png
 └── README.md                 <- you are here
 ```
 
