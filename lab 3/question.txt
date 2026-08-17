@@ -1,0 +1,5 @@
+Lab 3
+
+Host 192.168.3.2 is unable to ping the 192.168.4.2 host. 
+
+Troubleshoot the issue.
