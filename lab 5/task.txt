@@ -1,0 +1,11 @@
+==========================================================================
+
+
+
+PC is unable to establish connectivity with the Switch.
+
+Your task is to detect the issue and fix it so the link between the two devices must be up and working.
+
+
+
+===========================================================================
