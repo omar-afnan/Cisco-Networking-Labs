@@ -1,0 +1,10 @@
+===============================================================================
+
+
+
+
+We have configured the password on the vty line but when we telnet from PC the router is not prompting for the password.
+
+Troubleshoot the issue so the router should ask for the password before allowing a telnet connection.
+
+===============================================================================
